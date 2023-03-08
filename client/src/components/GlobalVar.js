@@ -1,3 +1,0 @@
-const usr = ''
-
-export { usr}
